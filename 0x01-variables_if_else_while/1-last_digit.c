@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-/*more header goes there*/
-/* betty style doc for function goes there*/
-/*main - Entry point */
+/**more header goes there
+ *betty style doc for function goes there
+ *main - Entry point 
+ */
 int main(void)
 {
 int n, digit;
