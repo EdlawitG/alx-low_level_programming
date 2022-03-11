@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-fprintf("and that piece of art is useful\"");
+fwrite("and that piece of art is useful\"", 59, 1, stderr);
 fwrite(" - Dora Korpar, 2015-10-19\n",  59,  1,  stderr);
 return (1);
 }
