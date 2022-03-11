@@ -13,11 +13,11 @@ while (d <= '9')
 putchar(d);
 d++;
 }
-char c = 'a';
-while (c <= 'f')
+d = 'a';
+while (d <= 'f')
 {
-putchar(c);
-c++;
+putchar(d);
+d++;
 }
 putchar('\n');
 return (0);
