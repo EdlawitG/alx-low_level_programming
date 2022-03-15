@@ -13,10 +13,10 @@ void times_table(void)
 
 	for (num = 0; num < 10; num++)
 	{
-		for (mult =0; mult < 10; mult++)
+		for (mult = 0; mult < 10; mult++)
 		{
 			pro = num * mult;
-			_putchar(pro);
+			_putchar('pro');
 			_putchar(',');
 			_putchar(' ');
 			_putchar(' ');
