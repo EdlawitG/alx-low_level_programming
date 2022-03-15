@@ -2,7 +2,7 @@
 
 /**
  * _islower - check the code.
- * parameter - integer one variable
+ * parameter - c is integer
  * Return: Always 0.
  */
 int _islower(int c)
