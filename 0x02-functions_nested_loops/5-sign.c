@@ -5,24 +5,24 @@
  * @n : integer is used
  * Return: Always 0.
  */
-int print_sign (int n)
+int print_sign(int n)
 {
+int test;
+
 if (n > 0)
 {
-return (1);
+test = 1;
 _putchar('+');
-_putchar(1);
 }
 else if (n < 0)
 {
-return (-1);
+test = -1;
 _putchar('-');
-_putchar(1);
 }
 else
 {
-return (0);
+test = 0;
 _putchar('0');
-_putchar(0);
 }
+return (test);
 }
