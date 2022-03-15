@@ -16,7 +16,7 @@ void times_table(void)
 		for (mult = 0; mult < 10; mult++)
 		{
 			pro = num * mult;
-			_putchar('pro');
+			_putchar(pro + '0');
 			_putchar(',');
 			_putchar(' ');
 			_putchar(' ');
