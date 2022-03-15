@@ -2,13 +2,14 @@
 
 /**
  * add - check the code
- * @a , @b : integer is used
+ * @a : integer is used
+ * @b : integer is used
  * Return: Always 0.
  */
 int add(int a, int b)
 {
-    int sum;
+int sum;
 
-    sum = a + b;
-    return (sum);
+sum = a + b;
+return (sum);
 }
