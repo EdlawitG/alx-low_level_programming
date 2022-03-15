@@ -2,8 +2,8 @@
 
 /**
  * _islower - check the code.
- * parameter - c is integer
- * Return: Always 0.
+ * @c - character
+ * Return:0 or 1.
  */
 int _islower(int c)
 {
