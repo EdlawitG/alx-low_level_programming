@@ -18,7 +18,8 @@ void times_table(void)
 			pro = num * mult;
 			_putchar(pro);
 			_putchar(',');
-			_putchar('  ');
+			_putchar(' ');
+			_putchar(' ');
 		}
 		_putchar('\n');
 	}
