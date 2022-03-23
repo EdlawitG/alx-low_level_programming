@@ -1,5 +1,9 @@
 #include "main.h"
+<<<<<<< HEAD
 /**
+=======
+**
+>>>>>>> b36fce61655822a510625ce090f32e5215581fbd
  * *_strncat - concatenates n bytes of two strings
  * @dest: pointer destination
  * @src: pointer source
