@@ -6,7 +6,7 @@
  * @f: a function pointer that determines the format of name
  * Return: nothing
  */
-void print_name(char *name, void (*f)(char *))
+void print_name (char *name, void (*f)(char *))
 {
 if (name && f)
 {
