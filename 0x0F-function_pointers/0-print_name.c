@@ -1,8 +1,3 @@
-/*
- * File: 0-print_name.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "function_pointers.h"
 
 /**
